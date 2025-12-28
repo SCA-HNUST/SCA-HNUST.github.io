@@ -1,0 +1,188 @@
+[
+  {
+    "title": "Feature Reconstruction: Far Field EM Side-Channel Attacks in Complex Environment",
+    "authors": "Huanyu Wang, Dalin He, Deng Tuo, Junnian Wang",
+    "venue": "IEEE Transactions on Information Forensics and Security",
+    "year": "2025",
+    "tags": [
+      {
+        "text": "CCF-A",
+        "class": "ccf-tag"
+      },
+      {
+        "text": "SCI Journal",
+        "class": "ccf-tag"
+      },
+      {
+        "text": "PDF",
+        "class": "code-tag",
+        "link": "assets\\publications\\2025_IEEE TIFS_Feature Reconstruction Far Field EM Side-Channel Attacks in Complex Environment.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Improving IIoT security: Unveiling threats through advanced side-channel analysis",
+    "authors": "Dalin He, Huanyu Wang, Tuo Deng, Jishi Liu, Junnian Wang",
+    "venue": "Computers & Security",
+    "year": "2025",
+    "tags": [
+      {
+        "text": "CCF-B",
+        "class": "ccf-tag"
+      },
+      {
+        "text": "SCI Journal",
+        "class": "ccf-tag"
+      },
+      {
+        "text": "PDF",
+        "class": "code-tag",
+        "link": "assets\\publications\\2025_Elsevier COSE_Improving IIoT Security Unveiling Threats Through Advanced SCA.pdf"
+      }
+    ]
+  },
+  {
+    "title": "A comprehensive side-channel leakage assessment of CRYSTALS-Kyber in IIoT",
+    "authors": "Zitian Huang, Huanyu Wang, Bijia Cao, Dalin He, Junnian Wang",
+    "venue": "Internet of Things",
+    "year": "2024",
+    "tags": [
+      {
+        "text": "SCI Journal",
+        "class": "ccf-tag"
+      },
+      {
+        "text": "PDF",
+        "class": "code-tag",
+        "link": "assets\\publications\\2024_Elsevier IoT_A Comprehensive Side-Channel Leakage Assessment of CRYSTALS-Kyber in IIoT.pdf"
+      }
+    ]
+  },
+  {
+    "title": "STEMLP: A spatial-temporal embedding multi-layer perceptron for traffic flow prediction",
+    "authors": "Liming Jiang, Baiyi Liu, Huanyu Wang, Shaomiao Chen, Wei Liang",
+    "venue": "Information Sciences",
+    "year": "2025",
+    "tags": [
+      {
+        "text": "CCF-B",
+        "class": "ccf-tag"
+      },
+      {
+        "text": "SCI Journal",
+        "class": "ccf-tag"
+      },
+      {
+        "text": "PDF",
+        "class": "code-tag",
+        "link": "assets\\publications\\2025_Elsevier INS_STEMLP A spatial-temporal embedding multi-layer perceptron for traffic flow prediction.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Switch-T: A novel multi-task deep-learning network for cross-device side-channel attack",
+    "authors": "Jiale Liao, Huanyu Wang, Junnian Wang, Yun Tang",
+    "venue": "Journal of Information Security and Applications",
+    "year": "2025",
+    "tags": [
+      {
+        "text": "CCF-C",
+        "class": "ccf-tag"
+      },
+      {
+        "text": "SCI Journal",
+        "class": "ccf-tag"
+      },
+      {
+        "text": "PDF",
+        "class": "code-tag",
+        "link": "assets\\publications\\2025_Elsevier JISA_Switch-T Multi-Task Deep-Learning Side-Channel Analysis based on Continual Learning.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Amplitude-modulated EM side-channel attack on provably secure masked AES",
+    "authors": "Huanyu Wang",
+    "venue": "Journal of Cryptographic Engineering",
+    "year": "2024",
+    "tags": [
+      {
+        "text": "EI Journal",
+        "class": "ccf-tag"
+      },
+      {
+        "text": "PDF",
+        "class": "code-tag",
+        "link": "assets\\publications\\2024_Springer JCEN_Amplitude-Modulated EM Side-Channel Attack on Provably Secure Masked AES.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Exploiting ShiftRow vulnerabilities in addition-chain masked AES: A novel wireless side-channel attack approach",
+    "authors": "Bijia Cao, Huanyu Wang, Tuo Deng, Dalin He, Zitian Huang, Junnian Wang",
+    "venue": "Microelectronics Journal",
+    "year": "2025",
+    "tags": [
+      {
+        "text": "SCI Journal",
+        "class": "ccf-tag"
+      },
+      {
+        "text": "PDF",
+        "class": "code-tag",
+        "link": "assets\\publications\\2025_Elsevier MEJ_Exploiting ShiftRow Vulnerabilities in Addition-Chain Masked AES FEM-SCA.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Thermal infrared action recognition with two-stream shift Graph Convolutional Network",
+    "authors": "Jishi Liu, Huanyu Wang, Junnian Wang, Dalin He, Ruihan Xu, Xiongfeng Tang",
+    "venue": "Machine Vision and Applications",
+    "year": "2024",
+    "tags": [
+      {
+        "text": "SCI Journal",
+        "class": "ccf-tag"
+      },
+      {
+        "text": "PDF",
+        "class": "code-tag",
+        "link": "assets\\publications\\2024_Springer MVA_Thermal Infrared Action Recognition with Two-Stream Shift GCN.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Recent Advances in Deep-Learning Side-Channel Attacks on AES Implementations",
+    "authors": "Junnian Wang, Xiaoxia Wang, Zexin Luo, Qixiang Ouyang, Chao Zhou, Huanyu Wang",
+    "venue": "Computers, Materials & Continua",
+    "year": "2025",
+    "tags": [
+      {
+        "text": "EI Journal",
+        "class": "ccf-tag"
+      },
+      {
+        "text": "PDF",
+        "class": "code-tag",
+        "link": "assets\\publications\\2025_CMC_Recent Advances in Deep-Learning Side-Channel Attacks on AES Implementations.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Design of the global-perception focus module and reparameterized dilation-wise for detecting steel surface defects",
+    "authors": "Jing Liao, Mingliang Liu, Lei Jiang, Kuanching Li",
+    "venue": "Measurement Science and Technology",
+    "year": "2025",
+    "tags": [
+      {
+        "text": "SCI Journal",
+        "class": "ccf-tag"
+      },
+      {
+        "text": "PDF",
+        "class": "code-tag",
+        "link": "assets\\publications\\2025_MST_Design of the global-perception focus module and reparameterized dilation-wise for detecting steel surface defects.pdf"
+      }
+    ]
+  }
+]

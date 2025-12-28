@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2025-2028",
+    "title": "Edge Intelligence for 6G Networks",
+    "content": "Developing AI-powered edge computing solutions for next-generation 6G wireless networks. This project focuses on intelligent resource allocation, distributed learning, and network optimization for ultra-reliable low-latency communications."
+  },
+  {
+    "date": "2024-2027",
+    "title": "Autonomous Driving with Edge-Cloud Collaboration",
+    "content": "Building a comprehensive framework for connected autonomous vehicles leveraging edge computing and cloud intelligence. The project addresses real-time perception, decision-making, and vehicle-to-everything (V2X) communication."
+  },
+  {
+    "date": "2023-2026",
+    "title": "Privacy-Preserving Federated Learning at Edge",
+    "content": "Investigating secure and efficient federated learning algorithms for distributed edge devices. The project develops new techniques for differential privacy, secure aggregation, and communication-efficient distributed training."
+  },
+  {
+    "date": "2024-2025",
+    "title": "AI-Driven Network Security",
+    "content": "Developing machine learning-based security solutions for edge networks and IoT systems. The project focuses on anomaly detection, intrusion prevention, and adversarial defense mechanisms."
+  },
+  {
+    "date": "2023-2025",
+    "title": "Swarm Intelligence for Multi-Robot Systems",
+    "content": "Researching coordinated control and communication algorithms for multi-robot systems operating in dynamic environments. Applications include search and rescue, environmental monitoring, and warehouse automation."
+  },
+  {
+    "date": "2025-2027",
+    "title": "Edge Computing for Smart Healthcare",
+    "content": "Developing edge AI solutions for real-time health monitoring and medical diagnosis. The project focuses on wearable devices, remote patient monitoring, and privacy-preserving health data analysis."
+  }
+]

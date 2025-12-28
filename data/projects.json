@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Modeling and Fault Diagnosis of Wind Power Generation Systems",
+    "type": "National Natural Science Foundation of China (General Program)",
+    "period": "2024-2027",
+    "status": "Ongoing",
+    "description": "Research on modeling methods and fault diagnosis technologies for wind power systems to improve reliability and operational efficiency."
+  },
+  {
+    "title": "Far-field Electromagnetic Side-Channel Attack and Defense Technology Research",
+    "type": "Hunan Provincial Key R&D Program",
+    "period": "2025-2027",
+    "status": "Ongoing",
+    "description": "Research on far-field electromagnetic side-channel attack methods and defense technologies to protect critical information infrastructure."
+  },
+  {
+    "title": "Wireless Side-Channel Attack Research in Complex Electromagnetic Environments",
+    "type": "Hunan Provincial Department of Education Excellent Youth Project",
+    "period": "2024-2026",
+    "status": "Ongoing",
+    "description": "Study wireless side-channel attack technologies in complex electromagnetic environments to enhance security protection capabilities."
+  },
+  {
+    "title": "Development of Side-Channel Remote Analysis Platform",
+    "type": "Industry-University Cooperation Project",
+    "period": "2024-2025",
+    "status": "Completed",
+    "description": "Develop a remote side-channel analysis platform for security testing of IoT devices."
+  },
+  {
+    "title": "Development of LiDAR Mining Environment Perception System",
+    "type": "Industry-University Cooperation Project",
+    "period": "2024-2025",
+    "status": "Ongoing",
+    "description": "Develop a mining environment perception system based on LiDAR to enhance environmental awareness of mining equipment."
+  },
+  {
+    "title": "Development of Mining AI Video Recognition System",
+    "type": "Industry-University Cooperation Project",
+    "period": "2024-2025",
+    "status": "Ongoing",
+    "description": "Develop a mining AI video recognition system for intelligent monitoring and analysis of mining environments."
+  },
+  {
+    "title": "Monorail Video Environment Perception System",
+    "type": "Industry-University Cooperation Project",
+    "period": "2023-2024",
+    "status": "Completed",
+    "description": "Develop a monorail video environment perception system for visual navigation of mining transportation equipment."
+  },
+  {
+    "title": "Side-Channel Analysis Security Monitoring",
+    "type": "Hunan Provincial Graduate Research Innovation Project",
+    "period": "2024-2025",
+    "status": "Completed",
+    "description": "Research on side-channel analysis security monitoring technologies conducted by graduate students."
+  }
+]

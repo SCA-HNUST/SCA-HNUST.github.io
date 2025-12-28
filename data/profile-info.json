@@ -1,0 +1,30 @@
+{
+  "name": "Lab of Intelligent Systems and Applications",
+  "subtitle": "<span>Laboratory of Intelligent Systems and Applications (LISA)</span><br><span>School of Computer Science and Engineering</span><br><span>Hunan University of Science and Technology</span>",
+  "socialLinks": [
+    {
+      "type": "email",
+      "url": "mailto:huanyu@hnust.edu.cn",
+      "icon": "<i class=\"fas fa-envelope\"></i>"
+    },
+    {
+      "type": "googleScholar",
+      "url": "https://scholar.google.com/citations?user=hinC1CAAAAAJ&hl=en",
+      "icon": "<i class=\"fas fa-graduation-cap\"></i>",
+      "target": "_blank"
+    },
+    {
+      "type": "github",
+      "url": "https://github.com/LISA-HNUST",
+      "icon": "<i class=\"fab fa-github\"></i>",
+      "target": "_blank"
+    },
+    {
+      "type": "website",
+      "url": "https://www.hnust.edu.cn",
+      "icon": "<i class=\"fas fa-globe\"></i>",
+      "target": "_blank"
+    }
+  ],
+  "profileImage": "assets/lisa-logo.jpg"
+}
