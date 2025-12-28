@@ -147,7 +147,6 @@ Integrated smart mining platforms
 </div>
 
 ---
-
 ## 🧪 Experimental Facilities
 
 <div align="center">
@@ -155,44 +154,47 @@ Integrated smart mining platforms
 <table>
 <tr>
 
+<!-- Card 1 -->
 <td width="33%" valign="top">
 <div align="center">
 
 <img src="assets\facility-sc-analysis.jpg" width="95%" />
 
-### 🔍 Side-Channel Platform
+### 🔐 Side-Channel Analysis Platform
 
-Professional side-channel instruments  
-High-precision oscilloscopes  
-Electromagnetic analysis systems  
+- Electromagnetic & power side-channel analysis instruments  
+- High-precision oscilloscopes  
+- Long-range and complex-environment measurement platforms  
 
 </div>
 </td>
 
+<!-- Card 2 -->
 <td width="33%" valign="top">
 <div align="center">
 
-<img src="assets\facility-mining-equipment.jpg" width="95%" />
+<img src="./assets\facility-mining-equipment.jpg" width="95%" />
 
-### 📡 SDR & Wireless Lab
+### 🚜 Intelligent Equipment Platform
 
-Ettus SDR devices  
-Signal acquisition & processing  
-Embedded security evaluation  
+- Intelligent monorail mining vehicle prototypes  
+- LiDAR and vision-based perception systems  
+- Integrated control and testing platforms  
 
 </div>
 </td>
 
+<!-- Card 3 -->
 <td width="33%" valign="top">
 <div align="center">
 
 <img src="assets\facility-computing.jpg" width="95%" />
 
-### 🚧 Intelligent Equipment
+### 💻 Computing Resources
 
-Monorail vehicle prototypes  
-LiDAR & vision systems  
-Integrated control platforms  
+- High-performance computing servers  
+- Dedicated research workstations  
+- Data acquisition and algorithm development environments  
 
 </div>
 </td>
@@ -202,15 +204,6 @@ Integrated control platforms
 
 </div>
 
----
-
-## 💻 Computing Resources
-
-- High-performance computing servers  
-- Dedicated research workstations  
-- Data acquisition and algorithm development environments  
-
----
 
 ## 🎓 Admission
 
