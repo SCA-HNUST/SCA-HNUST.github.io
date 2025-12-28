@@ -160,11 +160,13 @@ Integrated smart mining platforms
 
 <img src="assets\facility-sc-analysis.jpg" width="95%" />
 
-### 🔐 Side-Channel Analysis Platform
+### 🔭 Far-Field Electromagnetic Side-Channel Attack Platform  
+**（远场电磁侧信道攻击平台）**
 
-- Electromagnetic & power side-channel analysis instruments  
-- High-precision oscilloscopes  
-- Long-range and complex-environment measurement platforms  
+- Province-level unique far-field EM side-channel attack capability  
+- Long-distance attack range (**≥ 15 meters**)  
+- Two sets of far-field electromagnetic analysis platforms  
+- Support for practical and complex-environment attack scenarios  
 
 </div>
 </td>
@@ -173,13 +175,15 @@ Integrated smart mining platforms
 <td width="33%" valign="top">
 <div align="center">
 
-<img src="./assets\facility-mining-equipment.jpg" width="95%" />
+<img src="assets\facility-osr-analyzer.jpg" width="95%" />
 
-### 🚜 Intelligent Equipment Platform
+### ⚡ OSR Power Side-Channel Analyzer  
+**（OSR 功耗侧信道分析仪）**
 
-- Intelligent monorail mining vehicle prototypes  
-- LiDAR and vision-based perception systems  
-- Integrated control and testing platforms  
+- Dedicated OSR power analysis instrument (**1 unit**)  
+- Chip abnormal behavior monitoring  
+- Multi-functional and high-compatibility analysis capabilities  
+- Support for cryptographic implementation evaluation  
 
 </div>
 </td>
@@ -190,11 +194,13 @@ Integrated smart mining platforms
 
 <img src="assets\facility-computing.jpg" width="95%" />
 
-### 💻 Computing Resources
+### 💻 High-Performance Server Cluster  
+**（高性能服务器集群）**
 
+- Dedicated server room infrastructure  
 - High-performance computing servers  
-- Dedicated research workstations  
-- Data acquisition and algorithm development environments  
+- Support for large-scale data analysis  
+- AI model training and security research workloads  
 
 </div>
 </td>
