@@ -16,7 +16,7 @@ jobs:
           echo "content=$README_CONTENT" >> $GITHUB_OUTPUT
 
       - name: Update README in SCA-HNUST
-        uses: octokit/request-action@v3
+        uses: octokit/request-action@v2
         with:
           route: PUT /repos/SCA-HNUST/SCA-HNUST/contents/README.md
           token: ${{ secrets.PAT_TOKEN }}
