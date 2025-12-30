@@ -3,31 +3,22 @@ name: Secure Sync README to SCA-HNUST
 on:
   push:
     branches:
-      - main  # github.io 仓库默认分支
+      - main
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      # 获取 README 内容并 base64 编码
-      - name: Fetch README content
+      - name: Fetch README from github.io
         id: readme
         run: |
           README_CONTENT=$(curl -sL https://raw.githubusercontent.com/SCA-HNUST/SCA-HNUST.github.io/main/README.md | base64)
-          echo "$README_CONTENT" > readme.base64
+          echo "content=$README_CONTENT" >> $GITHUB_OUTPUT
 
-      # 获取 SCA-HNUST 仓库当前 README 的 SHA（必需用于更新）
-      - name: Get current README SHA
-        id: sha
-        run: |
-          SHA=$(curl -s -H "Authorization: token ${{ secrets.PAT_TOKEN }}" \
-          https://api.github.com/repos/SCA-HNUST/SCA-HNUST/contents/README.md | jq -r .sha)
-          echo "sha=$SHA" >> $GITHUB_OUTPUT
-
-      # 更新 README
-      - name: Update README
-        run: |
-          curl -X PUT -H "Authorization: token ${{ secrets.PAT_TOKEN }}" \
-          -H "Content-Type: application/json" \
-          -d "{\"message\": \"Sync README from github.io\", \"content\": \"$(cat readme.base64)\", \"sha\": \"${{ steps.sha.outputs.sha }}\"}" \
-          https://api.github.com/repos/SCA-HNUST/SCA-HNUST/contents/README.md
+      - name: Update README in SCA-HNUST
+        uses: octokit/request-action@v2
+        with:
+          route: PUT /repos/SCA-HNUST/SCA-HNUST/contents/README.md
+          token: ${{ secrets.PAT_TOKEN }}
+          message: "Securely sync README from github.io"
+          content: ${{ steps.readme.outputs.content }}
